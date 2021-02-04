@@ -52,16 +52,11 @@ new_this_year: |
       <a href="https://xwiki.com/en/Blog/5-things-I-learned-working-in-an-OS-company/">Five things I learned working in an Open Source company</a>
       <a href="https://xwiki.com/en/Blog/AtoZofOpenSource/">A to Z of XWiki recommended Open Source tools</a>
     </p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/8DePx30dh2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h4>By insisting on the importance of supporting and financing Open Source</h4>
     <p>
       <a href="https://www.websiteplanet.com/blog/interview-ludovic-dubost/">For Open Source to be more than a hobby for developers, it is necessary to fund its development</a>
     </p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/nZ0-_01KqP8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/N3NAlHlLv5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Wd3Xsg_eAxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/xKyZ9qqWFok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
     <p>
     <b>XWiki and CryptPad are not only our software, but they also belong to the community and you. You are welcomed to participate by developing, reporting bugs or features, and also sponsor the development of these projects: <a href="https://dev.xwiki.org/xwiki/bin/view/Community/Contributing">XWiki</a> & <a href="https://opencollective.com/cryptpad/contribute/">CryptPad</a>.</b>
