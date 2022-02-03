@@ -54,7 +54,6 @@ showcase: |
 themes:
 - Office suites and productivity
 title: XWiki & CryptPad
-show_on_overview: true
 chatroom: xwiki
-website: [https://xwiki.com](https://xwiki.com/)
+website: https://xwiki.com/
 ---
